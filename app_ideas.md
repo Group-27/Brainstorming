@@ -1,4 +1,4 @@
-Apps we like
+##Apps we like
 - snapchat
 - bank apps
 - youtube
@@ -15,7 +15,7 @@ Apps we like
 - sweatcoins
 - netflix
 
-Apps we can build
+##Apps we can build
 - security app( get a notification when your card is stolen)
 - video streaming app
 - zelle/ venmo( cash app)
