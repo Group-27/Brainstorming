@@ -14,6 +14,7 @@ Apps we like
 - discord(chatting app)
 - sweatcoins
 - netflix
+
 Apps we can build
 - security app( get a notification when your card is stolen)
 - video streaming app
