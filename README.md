@@ -1,3 +1,3 @@
 # Brainstorming
-Our brainstorm ideas
-These are the Ideas that we like and these are the apps that we want to make,
+Our brainstorm ideas are apps that we like and then we brainstormed apps that we want to make. So these are the few suggestions we came up with
+
