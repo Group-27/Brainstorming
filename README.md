@@ -1,3 +1,3 @@
-# Brainstorming
-Our brainstorm ideas are apps that we like and then we brainstormed apps that we want to make. So these are the few suggestions we came up with
+# App Design
+Here we will be interacting with each other and help each other make an app and work as a group
 
