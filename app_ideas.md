@@ -22,11 +22,11 @@ Mobile App Dev - App Brainstorming
 ### SnapChat
 
 - **Category:** Photo & Video / Social
-- **Mobile:** Website is view only, uses camera, mobile first experience.
-- **Story:** Allows users to share their lives in pictures and enhance their content with filters
-- **Market:** Anyone that takes pictures/videos could enjoy this app. Ability to follow users based on interests and categories allows users with unique interests to engage with relevant content.
-- **Habit:** Users can post throughout the day many times. Very habit forming!
-- **Scope:** Allows videos/gifs to dispear after user views another user's content. Does not allow saving snaps.
+- **Snapchat:** Started off as a small picture sharing app and expanded as big as Instagram
+- **Instagram** Lets people share pictures and now Allows users to share their lives in pictures and enhance their content with filters
+- **Pinterest** Anyone that takes pictures/videos could enjoy this app. Ability to follow users based on interests and categories allows users with unique interests to engage with relevant content.
+- **Beam:** Users can post throughout the day many times. Very habit forming!
+- **ifunny:** Allows videos/gifs to dispear after user views another user's content. Does not allow saving snaps.
 
 ## New App Ideas - List
 
@@ -45,17 +45,11 @@ Mobile App Dev - App Brainstorming
   - may integrate unused devises with a camera to monitor a specific area of a place to secure
 
 ## Top 3 New App Ideas - List
-
-<!-- NEEDS TO BE COMPLETED -->
+- Security App
+- Book or video game sqap 
+- Chat app
 
 ## Top 3 New app Ideas - Evaluate and Categorize
-
-<!-- NEEDS TO BE COMPLETED -->
-
-
-# Remainning TODOS:
-1. add 2 more Favorite existing app descriptions
-  - as mentioned in https://raw.githubusercontent.com/mad-workshop-group-activities/group-example/master/app_ideas.md
-
-2. List the `Top 3 App Ideas`
-3. Complete elaboration of `Top 3 App Ideas - Evaluate and Categorize`
+Security App- can detect who is outside your home, car or work place
+Book or Video game swap - just trade a game or book and both will be happy
+Chat app - easy communication around the world even video calling!
