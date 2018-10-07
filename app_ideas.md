@@ -19,7 +19,6 @@ Mobile App Dev - App Brainstorming
 15. Netflix
 
 ## Favorite Existing Apps - Categorize and Evaluate
-### SnapChat
 
 - **Category:** Photo & Video / Social
 - **Snapchat:** Started off as a small picture sharing app and expanded as big as Instagram
@@ -50,6 +49,6 @@ Mobile App Dev - App Brainstorming
 - Chat app
 
 ## Top 3 New app Ideas - Evaluate and Categorize
-Security App- can detect who is outside your home, car or work place
-Book or Video game swap - just trade a game or book and both will be happy
-Chat app - easy communication around the world even video calling!
+- Security App- can detect who is outside your home, car or work place
+- Book or Video game swap - just trade a game or book and both will be happy
+- Chat app - easy communication around the world even video calling!
